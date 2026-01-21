@@ -76,3 +76,51 @@ This project was developed to practice building a real-world Android application
 ## License
 
 This project is for **learning and academic purposes**.
+
+## Screenshots
+
+### Authentication
+| Welcome | Login | Register (Email) | OTP Verification |
+|--------|-------|------------------|------------------|
+| ![](images/welcome.png) | ![](images/login.png) | ![](images/register_email.png) | ![](images/opt.png) |
+
+### Home & Feed
+| Feed | Create Post | Post Detail |
+|------|-------------|-------------|
+| ![](images/feed.png) | ![](images/create_post.png) | ![](images/post_detail.png) |
+
+### Post Interaction
+| Comment | Empty Comment | Share |
+|---------|---------------|-------|
+| ![](images/comment.png) | ![](images/empty_comment.png) | ![](images/share.png) |
+
+### Profile
+| Profile Posts | Saved Posts | Edit Profile |
+|---------------|-------------|--------------|
+| ![](images/profile_post.png) | ![](images/profile_save.png) | ![](images/edit_profile.png) |
+
+### Follow
+| Followers | Following |
+|-----------|-----------|
+| ![](images/follower.png) | ![](images/following.png) |
+
+### Search
+| Search | Search User | Search Post |
+|--------|-------------|-------------|
+| ![](images/search.png) | ![](images/search_user.png) | ![](images/search_post.png) |
+
+### Notifications
+| All Notifications | Unread Notifications |
+|-------------------|---------------------|
+| ![](images/notification_all.png) | ![](images/notification_unread.png) |
+
+### Media
+| Image Detail | Video Detail |
+|--------------|--------------|
+| ![](images/detail_image.png) | ![](images/video_detail.png) |
+
+### Settings
+| Settings |
+|----------|
+| ![](images/setting.png) |
+
