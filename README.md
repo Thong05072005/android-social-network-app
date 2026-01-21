@@ -107,7 +107,7 @@ This project is for **learning and academic purposes**.
 ### Search
 | Search | Search User | Search Post |
 |--------|-------------|-------------|
-| ![](images/search.png) | ![](images/search_user.png) | ![](images/search_post.png) |
+| ![](images/search.png) | ![](images/search_user.png) | ![](images/serach_post.png) |
 
 ### Notifications
 | All Notifications | Unread Notifications |
